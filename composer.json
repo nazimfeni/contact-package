@@ -1,0 +1,19 @@
+{
+    "name": "bionictechbd/contact",
+    "description": "This will send email to admin and save contact in database",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bionictechbd\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nazimfeni",
+            "email": "mdnazimuddin77@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
